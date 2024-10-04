@@ -1,0 +1,19 @@
+---
+title: "CETES"
+author: "Jorge Alberto Ferreyra Ortiz"
+format: html
+editor: visual
+---
+
+#Ejemplo del uso de mis formulas 
+
+En este ejemplo cargo mi link para la informacion de CETES 
+de [Github](https://github.com/jorgeafo1/CETES/blob/main/README.md)
+
+Se cargan las funciones de manera remota:
+
+```{r}
+source("https://raw.githubusercontent.com/jorgeafo1/CETES/refs/heads/main/README.md")
+```
+
+##
